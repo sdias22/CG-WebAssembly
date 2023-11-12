@@ -3,4 +3,4 @@
 Repositório de Projetos de Computação Gráfica UFABC
 
 ## Links
-- [helloword](https://lucasgm22.github.io/cg/projeto1)
+- [projeto1](https://sdias22.github.io/CG-WebAssembly/projeto1)
